@@ -14,14 +14,14 @@ My hobby is to keep things simple and help struggling FIs to improve/automate th
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
 
-<a href="https://www.github.com/JoKeRxTD" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/JoKeRxTD?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
+<a href="https://www.github.com/placidass" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/placidass?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
 </a>
 <a href="https://www.x.com/jokerxhd" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/jokeerxhd?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"/>
+  <img src="https://img.shields.io/twitter/follow/pfern888?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"/>
 </a>
-<a href="https://www.twitch.tv/jokeerxhd" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitch/status/jokeerxhd?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=181824&label=TWITCH+STATUS" />
+<a href="https://www.twitch.tv/placidass" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitch/status/placidass?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=181824&label=TWITCH+STATUS" />
 </a>
 
 ## Skills
