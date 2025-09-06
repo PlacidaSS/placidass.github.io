@@ -9,8 +9,8 @@ My hobby is to keep things simple and help struggling FIs to improve/automate th
 * 🌍  Based in Pennsylvania (USA)
 * 🖥️  See my portfolio at [My Portfolio](https://placidass.xyz)
 * ✉️  You can contact me at [contact@placidass.xyz](https://placidass.xyz/contact)
-* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [placidass.xyz](https://placidass.xyz)
-* 🧠  Learning How to create a fully custom FiveM & RedM Framework
+* 🚀  Currently working on [SnowFlake]((https://github.com/PlacidaSS/snowflake)) / [placidass.xyz](https://placidass.xyz)
+* 🧠  Learning How to create a fully custom Data Governance program using SnowFlakes Cortex Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
 
