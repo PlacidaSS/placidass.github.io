@@ -7,7 +7,7 @@ Director Enterprise Architecture
 My hobby is to keep things simple and help struggling FIs to improve/automate their processes to be differentiators among others
 
 * 🌍  Based in Pennsylvania (USA)
-* 🖥️  See my portfolio at [My Portfolio](https://placidass.xyz)
+* 🖥️  See my portfolio at [My Portfolio](https://www.linkedin.com/in/placidafernando)
 * ✉️  You can contact me at [contact@placidass.xyz](https://placidass.xyz/contact)
 * 🚀  Currently working on [Snowflake Cortex](https://github.com/PlacidaSS/snowflake)
 * 🧠  Learning How to create a fully custom Data Governance program using SnowFlakes Cortex Framework
