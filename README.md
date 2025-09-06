@@ -8,9 +8,9 @@ My hobby is to keep things simple and help struggling FIs to improve/automate th
 
 * 🌍  Based in Pennsylvania (USA)
 * 🖥️  See my portfolio at [My Portfolio](https://www.linkedin.com/in/placidafernando)
-* ✉️  You can contact me at [contact@placidass.xyz](https://placidass.xyz/contact)
+* ✉️  You can contact me at [pfernando@crnrstone.com](pfernando@crnrstone.com)
 * 🚀  Currently working on [Snowflake Cortex](https://github.com/PlacidaSS/snowflake)
-* 🧠  Learning How to create a fully custom Data Governance program using SnowFlakes Cortex Framework
+* 🧠  Learning How to create a fully custom Data Governance platform using SnowFlakes Cortex Framework which is not being done in small banks and credit unions.
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
 
