@@ -17,7 +17,7 @@ My hobby is to keep things simple and help struggling FIs to improve/automate th
 <a href="https://www.github.com/placidass" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/placidass?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
 </a>
-<a href="https://www.x.com/jokerxhd" target="_blank" rel="noreferrer">
+<a href="https://www.x.com/pfern888" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/pfern888?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"/>
 </a>
 <a href="https://www.twitch.tv/placidass" target="_blank" rel="noreferrer">
