@@ -1,18 +1,18 @@
 Hello👋 My name is Placida Fernando
 ======================
 
-Director Enterprise Architecture
+Freelance Enterprise Architecture
 ------------------------
 
-My hobby is to keep things simple and help struggling FIs to improve/automate their processes to be differentiators among others
+My hobby is to 
 
 * 🌍  Based in Pennsylvania (USA)
 * 🖥️  See my portfolio at [My Portfolio](https://www.linkedin.com/in/placidafernando)
-* ✉️  You can contact me at [pfernando@crnrstone.com](pfernando@crnrstone.com)
+* ✉️ 
 * 🚀  Currently working on [Snowflake Cortex](https://github.com/PlacidaSS/snowflake)
-* 🧠  Learning How to create a fully custom Data Governance platform using SnowFlakes Cortex Framework which is not being done in small banks and credit unions.
-* 🤝  I'm open to collaborating on any of my projects, Just get in contact
-* ⚡  Why so serious?!
+* 🧠  Learning How to create a fully custom Data Governance platform using SnowFlakes Cortex Framework. Customizing Open AI GPT to automate tedious/repetitive tasks
+* 🤝  I'm open to collaborating on any of my projects
+* ⚡  
 
 <a href="https://www.github.com/placidass" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/placidass?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" />
